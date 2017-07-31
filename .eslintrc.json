@@ -1,0 +1,19 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 6
+  },
+  "env": {
+    "node": true
+  },
+  "extends": "eslint:recommended",
+  "globals": {
+    "describe": false,
+    "it": false
+  },
+  "rules": {
+    "no-const-assign": [
+      "error"
+    ],
+    "semi" : "error"
+  }
+}

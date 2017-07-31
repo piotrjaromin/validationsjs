@@ -1,0 +1,19 @@
+{
+  "name": "validationsjs",
+  "version": "1.0.0",
+  "description": "simple validations library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "piotrjaromin",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.3.0",
+    "mocha": "3.4.x",
+    "should": "11.2.x"
+  }
+}

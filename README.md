@@ -24,7 +24,7 @@ returnes object might look like this
 ```javascript
 {
     "password":"invalidPassword",
-    "lastName: "canNotBeShorterThan"
+    "lastName": "canNotBeShorterThan"
 }
 ```
 
